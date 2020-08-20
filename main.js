@@ -6,7 +6,7 @@ document.cookie="age="+document.myform.age.value+";max-age="+60*60*24*1;
 }
 function getcookies(){
  var a = document.cookie;
-  console.log(a);
+  
 
 document.getElementById('jadu').innerHTML="Hello, "+document.myform.name.value + "<br> "+ "welcome to pk creation";
 }
