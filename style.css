@@ -1,6 +1,6 @@
 body {
     background-image: url('bgImage.gif');
-    background-size:cover;
+    background-size:100% 100%;
     background-repeat: no-repeat;
     background-size: auto;
     font-size: 15pt;
