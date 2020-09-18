@@ -1,5 +1,6 @@
 body {
     background-image: url('bgImage.gif');
+    background-size:cover;
     font-size: 15pt;
     background-color:#B3B6D8;
     text-align:center;
